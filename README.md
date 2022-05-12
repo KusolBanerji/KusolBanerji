@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KusolBanerji
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning Advanced backend technologies.
 - 📫 Reach me on - kusol.banerji100@gmail.com
 
 <!---
